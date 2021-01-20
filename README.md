@@ -1,6 +1,6 @@
 # Compare Yourself
 
-Ever wondered what dog most resembles you? Now you can know! I made a program that goes through google images based on a search input (dog, cat, etc.), and shows the one that looks most structurally similar to you (or any other input image). Note: you must have a couple packages installed for this to work, and also a chromedriver executable downloaded.
+Ever wondered what dog most resembles you? Now you can know! This program that goes through google images based on a search input (dog, cat, etc.), and shows the one that looks most structurally similar to you (or any other input image)
 
 ## Notes
 
